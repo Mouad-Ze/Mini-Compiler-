@@ -176,14 +176,6 @@ The compiler provides:
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is open source. Please check the license file for details.
-
-## Authors
-
-- [Your Name] - Initial implementation
-
 ## Acknowledgments
 
 - Built using Flex and Bison
