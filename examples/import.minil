@@ -1,0 +1,23 @@
+// Import and library example in MiniL
+Import Library MiniL.lang;
+
+public class MathOperations {
+    int a;
+    int b;
+    real result;
+    
+    main {
+        a = 10;
+        b = 5;
+        
+        if (a > b) {
+            result = a + b;
+        } else {
+            result = a - b;
+        }
+        
+        while (a > 0) {
+            a = a - 1;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+// Hello World example in MiniL
+public class HelloWorld {
+    int x;
+    real pi;
+    str message;
+    
+    main {
+        x = 42;
+        pi = 3.14159;
+        message = "Hello, World!";
+    }
+}
